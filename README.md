@@ -24,7 +24,7 @@ React Router: A routing library for navigating between different pages within th
 Clone the project
 
 ```bash
-  [git clone https://link-to-project](https://github.com/nimish-star/Quiz_App.git)
+ (https://github.com/priyankuchiha/Quiz_App.git)
 ```
 
 Go to the project directory
